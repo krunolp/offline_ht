@@ -1,7 +1,6 @@
-# Approximate Heavy Tails in Finite Sample Stochastic Gradient Descent
+# Approximate Heavy Tails in Offline (Multi-Pass) Stochastic Gradient Descent
 
-This is a repository provides source code for the [Approximate Heavy Tails in Finite Sample Stochastic
-Gradient Descent](www.arxiv.com) paper.
+This is a repository provides source code for the [Approximate Heavy Tails in Offline (Multi-Pass) Stochastic Gradient Descent](www.arxiv.com) paper.
 
 ## Dependencies
 
