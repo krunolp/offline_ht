@@ -1,6 +1,6 @@
 # Approximate Heavy Tails in Offline (Multi-Pass) Stochastic Gradient Descent
 
-This is a repository provides source code for the [Approximate Heavy Tails in Offline (Multi-Pass) Stochastic Gradient Descent](www.arxiv.com) paper.
+This is a repository provides source code for the [Approximate Heavy Tails in Offline (Multi-Pass) Stochastic Gradient Descent](https://arxiv.org/abs/2310.18455) paper.
 
 ## Dependencies
 
@@ -31,7 +31,14 @@ The repository consists of two main parts:
 If you refer our work in your research, please cite it as follows:
 
 ```
-
+@misc{pavasovic2023approximate,
+      title={Approximate Heavy Tails in Offline (Multi-Pass) Stochastic Gradient Descent}, 
+      author={Krunoslav Lehman Pavasovic and Alain Durmus and Umut Simsekli},
+      year={2023},
+      eprint={2310.18455},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
 
 
